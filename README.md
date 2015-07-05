@@ -44,3 +44,6 @@ class App {
 
 export default App
 ```
+
+## known bugs
+resulting jsx code component names and attribute names is all smallcaps
